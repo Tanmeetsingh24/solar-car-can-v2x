@@ -7,7 +7,7 @@
 
 ---
 
-## The hook
+## Problem statement
 
 A solar race car needed a **coherent vehicle data backbone** and **driver-awareness comms** while the team scaled electronics across a **~75-person** program — ad hoc wiring and one-off links would not survive integration.
 
